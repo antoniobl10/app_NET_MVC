@@ -1,7 +1,7 @@
-﻿using AntonioWeb.Models;
+﻿using Antonio.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AntonioWeb.Data
+namespace Antonio.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
     {

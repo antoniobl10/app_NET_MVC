@@ -1,4 +1,4 @@
-namespace AntonioWeb.Models
+namespace Antonio.Models
 {
     public class ErrorViewModel
     {

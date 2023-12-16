@@ -5,7 +5,13 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntonioWeb", "AntonioWeb\AntonioWeb.csproj", "{99234603-9B77-456D-9D63-45DEE8A7A6B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntonioWebRazor_Temp", "AntonioWebRazor_Temp\AntonioWebRazor_Temp.csproj", "{4EF2CAC7-F907-428F-9BE1-8F91C1855337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntonioWebRazor_Temp", "AntonioWebRazor_Temp\AntonioWebRazor_Temp.csproj", "{4EF2CAC7-F907-428F-9BE1-8F91C1855337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antonio.DataAccess", "Antonio.DataAccess\Antonio.DataAccess.csproj", "{FDDA572A-B29D-48E2-A281-F112693AC461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antonio.Models", "Antonio.Models\Antonio.Models.csproj", "{41E3E7E5-2EC1-4FB2-A820-779C41692FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antonio.Utility", "Antonio.Utility\Antonio.Utility.csproj", "{0F9F1A3C-DAA3-4133-AD74-6C5C270DD60D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{4EF2CAC7-F907-428F-9BE1-8F91C1855337}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EF2CAC7-F907-428F-9BE1-8F91C1855337}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EF2CAC7-F907-428F-9BE1-8F91C1855337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDA572A-B29D-48E2-A281-F112693AC461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDA572A-B29D-48E2-A281-F112693AC461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDA572A-B29D-48E2-A281-F112693AC461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDA572A-B29D-48E2-A281-F112693AC461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E3E7E5-2EC1-4FB2-A820-779C41692FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E3E7E5-2EC1-4FB2-A820-779C41692FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E3E7E5-2EC1-4FB2-A820-779C41692FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E3E7E5-2EC1-4FB2-A820-779C41692FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9F1A3C-DAA3-4133-AD74-6C5C270DD60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9F1A3C-DAA3-4133-AD74-6C5C270DD60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9F1A3C-DAA3-4133-AD74-6C5C270DD60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9F1A3C-DAA3-4133-AD74-6C5C270DD60D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

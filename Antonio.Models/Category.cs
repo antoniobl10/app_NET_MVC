@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace AntonioWeb.Models
+namespace Antonio.Models
 {
     public class Category
     {
