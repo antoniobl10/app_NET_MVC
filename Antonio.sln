@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntonioWeb", "AntonioWeb\AntonioWeb.csproj", "{99234603-9B77-456D-9D63-45DEE8A7A6B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AntonioWeb", "AntonioWeb\AntonioWeb.csproj", "{99234603-9B77-456D-9D63-45DEE8A7A6B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntonioWebRazor_Temp", "AntonioWebRazor_Temp\AntonioWebRazor_Temp.csproj", "{4EF2CAC7-F907-428F-9BE1-8F91C1855337}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{99234603-9B77-456D-9D63-45DEE8A7A6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99234603-9B77-456D-9D63-45DEE8A7A6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99234603-9B77-456D-9D63-45DEE8A7A6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF2CAC7-F907-428F-9BE1-8F91C1855337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF2CAC7-F907-428F-9BE1-8F91C1855337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF2CAC7-F907-428F-9BE1-8F91C1855337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF2CAC7-F907-428F-9BE1-8F91C1855337}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
