@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antonio.Models", "Antonio.M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antonio.Utility", "Antonio.Utility\Antonio.Utility.csproj", "{0F9F1A3C-DAA3-4133-AD74-6C5C270DD60D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_Service_Lifetime", "DI_Service_Lifetime\DI_Service_Lifetime.csproj", "{A55F8BA7-EF93-40FF-965F-9605191D0FD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0F9F1A3C-DAA3-4133-AD74-6C5C270DD60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F9F1A3C-DAA3-4133-AD74-6C5C270DD60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F9F1A3C-DAA3-4133-AD74-6C5C270DD60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55F8BA7-EF93-40FF-965F-9605191D0FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55F8BA7-EF93-40FF-965F-9605191D0FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55F8BA7-EF93-40FF-965F-9605191D0FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55F8BA7-EF93-40FF-965F-9605191D0FD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
