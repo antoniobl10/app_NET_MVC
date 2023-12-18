@@ -50,7 +50,7 @@ namespace Antonio.Models
         public Category Category { get; set; }
 
         [ValidateNever]
-        public string ImageURL { get; set; }
+        public string ImageUrl { get; set; }
 
     }
 }
