@@ -1,11 +1,14 @@
 ﻿using Antonio.DataAccess.Data;
 using Antonio.DataAccess.Repository.IRepository;
 using Antonio.Models;
+using Antonio.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AntonioWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Admin)]
     public class CategoryController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
